@@ -1,0 +1,42 @@
+# ----------------------------
+# Python
+# ----------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Temporary files
+tempCodeRunnerFile.py
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Dataset (Do not upload)
+dataset/
+
+# Logs
+logs/
+*.log
+
+# TensorBoard
+runs/
+
+# Cache
+.cache/
+
+# Python build
+build/
+dist/
+*.egg-info/
