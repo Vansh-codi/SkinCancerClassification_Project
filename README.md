@@ -1,11 +1,11 @@
-# 🩺 Skin Cancer Classification using Convolutional Neural Networks (CNN)
+#  Skin Cancer Classification using Convolutional Neural Networks (CNN)
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.16-orange)
 ![Keras](https://img.shields.io/badge/Keras-3-red)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-## 📌 Overview
+##  Overview
 
 This project implements multiple **Convolutional Neural Network (CNN)** models for multiclass skin lesion classification using the **HAM10000** dataset.
 
@@ -19,7 +19,7 @@ The repository contains pre-trained models and an inference script for comparing
 
 ---
 
-# ✨ Features
+#  Features
 
 - Multi-class skin lesion classification
 - Comparison of three CNN models
@@ -56,7 +56,7 @@ The dataset contains the following classes:
 
 ---
 
-# 📁 Project Structure
+#  Project Structure
 
 ```text
 SkinCancerClassification_Project/
@@ -81,7 +81,7 @@ SkinCancerClassification_Project/
 
 ---
 
-# ⚙️ Installation
+#  Installation
 
 Clone the repository:
 
@@ -112,7 +112,7 @@ pip install -r requirements.txt
 
 ---
 
-# ▶️ Running the Project
+#  Running the Project
 
 Place your test image inside:
 
@@ -134,7 +134,7 @@ python compare_models.py
 
 ---
 
-# 📊 Model Comparison
+#  Model Comparison
 
 | Model | Input Size | Epochs | Training Accuracy | Validation Accuracy |
 |-------|-----------:|--------:|------------------:|--------------------:|
@@ -144,13 +144,13 @@ python compare_models.py
 
 ---
 
-# 🖼 Example Prediction
+#  Example Prediction
 
 ![Prediction Output](screenshots/prediction_output.png)
 
 ---
 
-# 🛠 Technologies Used
+#  Technologies Used
 
 - Python
 - TensorFlow
@@ -163,7 +163,7 @@ python compare_models.py
 
 ---
 
-# 🚀 Future Improvements
+#  Future Improvements
 
 - Transfer Learning (EfficientNet, MobileNet)
 - Hyperparameter Optimization
@@ -179,7 +179,7 @@ This project is intended for **educational and research purposes only** and shou
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 **Vansh Jain**
 
